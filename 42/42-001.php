@@ -7,4 +7,4 @@ $name = mb_convert_encoding($name, 'UTF-8', 'Shift_JIS');
 ?>
 <body>
 name is <?php echo htmlspecialchars($name, ENT_NOQUOTES, 'UTF-8'); ?>.
-</body>
+</body
